@@ -2,4 +2,5 @@
 fm2023.csv
 fm23_report.html
 tabla_datos.csv
-data_set_limpio.pkl
+entrenamiento.ipynb
+*.pkl
