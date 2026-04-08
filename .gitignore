@@ -3,3 +3,7 @@ fm2023.csv
 fm23_report.html
 entrenamiento.ipynb
 *.pkl
+graficas_comparacion.ipynb
+*.csv
+.DS_Store
+*.pyc
