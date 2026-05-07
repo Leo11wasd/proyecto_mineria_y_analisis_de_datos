@@ -6,3 +6,4 @@ entrenamiento.ipynb
 *.csv
 .DS_Store
 *.pyc
+*.venv/
